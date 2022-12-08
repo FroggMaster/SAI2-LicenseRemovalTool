@@ -4,7 +4,7 @@ Remove License Requirements from SAI 2
 
 ## How To 
 1) Download the latest version of Paint SAI 2 from [SysteMax](https://www.systemax.jp/en/sai/devdept.html)
-2) Dowload the SAI2LicenseRemoval.exe from the [Latest Release](https://github.com/FroggMaster/Sai2-Cracker/releases/tag/V1.0)
+2) Dowload the SAI2LicenseRemoval.exe from the [Latest Release](https://github.com/FroggMaster/SAI2-LicenseRemovalTool/releases/latest)
 3) Place the SAI2LicenseRemoval.exe in the root of the Paint SAI 2 folder
 4) Run Paint SAI 2 > Click Other > System ID. Take not of you System ID you'll need it momentarily. 
 5) Close Paint Sai 2
